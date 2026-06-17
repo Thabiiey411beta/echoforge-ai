@@ -1,0 +1,10 @@
+crewai
+crewai-tools
+langchain
+langchain-community
+librosa
+numpy
+pydub
+soundfile
+openai
+python-dotenv
